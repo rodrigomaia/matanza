@@ -7,8 +7,8 @@ Use those scripts to create automatically branchs associated with issues and tra
 
 ## TODO
 
-[ ] Create issues automatically
-[ ] Fetch with project source url
+* [ ] Create issues automatically
+* [ ] Fetch with project source url
 
 ## License
 
